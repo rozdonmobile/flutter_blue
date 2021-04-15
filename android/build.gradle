@@ -60,10 +60,6 @@ protobuf {
 
 
 dependencies {
-<<<<<<< HEAD
     implementation 'com.google.protobuf:protobuf-lite:3.0.1'
     implementation 'androidx.core:core:1.2.0'
-=======
-    implementation 'com.google.protobuf:protobuf-javalite:3.11.4'
->>>>>>> 7c7a86c95a3a2537bfb7e3c368716cdb26cf66b0
 }
